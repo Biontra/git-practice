@@ -17,3 +17,4 @@ To build a strong foundation in version control and prepare for contributing to 
 
 ## Author
 Kaan | [Biontra](https://github.com/Biontra)
+My first Git commit from terminal.
